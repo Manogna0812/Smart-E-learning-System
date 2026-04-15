@@ -38,3 +38,6 @@ __pycache__/
 
 # Others
 *.zip
+
+public/sample-lesson.mp4
+*.mp4git commit -m "Removed large video file"
